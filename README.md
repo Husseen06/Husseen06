@@ -3,7 +3,7 @@
 
 - 👨‍💻 Al mijn projecten zijn hier te vinden [https://github.com/Husseen06](https://github.com/Husseen06)
 
-- 📫Hoe kun je mij berijken **husseenahmed24@outlook.com**
+- 📫Hoe kun je mij bereiken **husseenahmed24@outlook.com**
 
 <h3 align="left">Connect met mij:</h3>
 <p align="left">

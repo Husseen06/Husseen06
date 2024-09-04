@@ -1,5 +1,5 @@
 <h1 align="center">Hoi 👋, ik ben Husseen Aden</h1>
-<h3 align="center">ik ben een eerste jaars student Software Developer aan het Techniek College Rotterdam (MBO4)</h3>
+<h3 align="center">ik ben een tweede jaars student Software Developer aan het Techniek College Rotterdam (MBO4)</h3>
 
 - 👨‍💻 Al mijn projecten zijn hier te vinden [https://github.com/Husseen06](https://github.com/Husseen06)
 

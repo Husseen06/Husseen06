@@ -3,8 +3,6 @@
 
 - 👨‍💻 Hier kun je mijn portfolio bekijken. [husseen06.github.io](https://husseen06.github.io/)
 
-- 📫Hoe kun je mij bereiken **husseenahmed24@outlook.com**
-
 <h3 align="left">Connect met mij:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/husseen-aden-088692294" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="husseen-aden-088692294" height="30" width="40" /></a>

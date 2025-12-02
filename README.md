@@ -5,7 +5,7 @@
 <h3 align="left">💼 Stage / Projecten</h3>
 <p align="left">
 Ik loop momenteel stage als software developer en werk aan projecten gericht op front-end ontwikkeling. 
-Ik focus me op het bouwen van moderne applicaties met **Vue.js** en **TailwindCSS**.
+Ik focus me op het bouwen van moderne applicaties met Vue.js en TailwindCSS.
 </p>
 
 <h3 align="left">🛠️ Tools & Technologieën</h3>

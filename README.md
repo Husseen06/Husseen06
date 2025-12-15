@@ -1,13 +1,27 @@
 <h1>👋 Hey, ik ben Husseen</h1>
 
+---
 ## 👨‍💻 Over Mij
 
 * 🎓 **Laatstejaars student** Software Developer
 * 🏢 Momenteel **op stage**
 * 🚀 **Leergierig & gedreven**
-* 🎯 **Focus op:** Vue.js, Tailwind CSS, Axios en Figma
+* 🎯 **Focus op:** Vue.js, Tailwind CSS en Axios 
 * ✨ Werkt met moderne **frontend frameworks**
-* agile Ervaring met **Scrum-methodologie**
+* 👥 Ervaring met **Scrum-methodologie**
+
+
+---
+<div align="center">
+  <h1>Connect met mij
+</h1>
+  <a href="https://www.linkedin.com/in/husseen-a-088692294/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/husseen06/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  </a>
+</div>
 
 ---
 ## ⚡️ Quick Facts
@@ -74,14 +88,3 @@
 ![husseen06's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=husseen06&theme=highcontrast&show_icons=true&hide_border=true&layout=compact)
 ---
 
-## 📧 Connect met mij
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/husseen-a-088692294/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/husseen06/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-</div>

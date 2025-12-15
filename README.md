@@ -60,6 +60,7 @@
 ## 🎮 Interesses
 
 * 🕹️ Gamen
+* ⚽ Voetbal/Sporten
 * 💡 Technologie
 * 🎬 Films & series
 
@@ -73,7 +74,7 @@
 ![husseen06's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=husseen06&theme=highcontrast&show_icons=true&hide_border=true&layout=compact)
 ---
 
-## 📧 Contact
+## 📧 Connect met mij
 
 <div align="left">
   <a href="https://www.linkedin.com/in/husseen-a-088692294/" target="_blank">

@@ -10,19 +10,6 @@
 * ✨ Werkt met moderne **frontend frameworks**
 * 👥 Ervaring met **Scrum-methodologie**
 
-
----
-<div align="center">
-  <h1>Connect met mij
-</h1>
-  <a href="https://www.linkedin.com/in/husseen-a-088692294/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/husseen06/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  </a>
-</div>
-
 ---
 ## ⚡️ Quick Facts
 
@@ -32,6 +19,16 @@
 * 🤝 **Open voor:** Samenwerking aan frontend projecten
 
 ---
+<div align="center">
+  <h1>Connect met mij via:
+</h1>
+  <a href="https://www.linkedin.com/in/husseen-a-088692294/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/husseen06/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  </a>
+</div>
 
 ## ⚙️ Ik werk met
 
@@ -60,8 +57,6 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
 </div>
-
-<br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph-dark.svg">

@@ -1,6 +1,6 @@
 <h1>👋 Hey, ik ben Husseen</h1>
 
----
+![husseen06's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=husseen06&theme=highcontrast&show_icons=true&hide_border=true&layout=compact)
 
 ## 👨‍💻 Over Mij
 
@@ -12,7 +12,6 @@
 * agile Ervaring met **Scrum-methodologie**
 
 ---
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=husseen06&stats_format=bytes)
 ## ⚡️ Quick Facts
 
 * 🛠️ **Werk aan:** Frontend projecten met Vue.js

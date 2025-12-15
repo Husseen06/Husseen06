@@ -70,7 +70,8 @@
 [https://portfoliohusseenaden.netlify.app/](https://portfoliohusseenaden.netlify.app/)
 
 ---
-
+![husseen06's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=husseen06&theme=highcontrast&show_icons=true&hide_border=true&layout=compact)
+---
 
 ## 📧 Contact
 
@@ -83,5 +84,3 @@
   </a>
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
 </div>
-
-![husseen06's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=husseen06&theme=highcontrast&show_icons=true&hide_border=true&layout=compact)

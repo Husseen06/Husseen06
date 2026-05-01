@@ -72,11 +72,4 @@
 
 ---
 
-## 🔗 Bekijk mijn portfolio hier!
-
-[https://portfoliohusseenaden.netlify.app/](https://portfoliohusseenaden.netlify.app/)
-
----
-![husseen06's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=husseen06&theme=highcontrast&show_icons=true&hide_border=true&layout=compact)
----
 

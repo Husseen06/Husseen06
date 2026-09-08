@@ -3,20 +3,12 @@
 ---
 ## 👨‍💻 Over Mij
 
-* 🎓 **Laatstejaars student** Software Developer
-* 🏢 Momenteel **op stage**
-* 🚀 **Leergierig & gedreven**
-* 🎯 **Focus op:** Vue.js, Tailwind CSS en Axios 
-* ✨ Werkt met moderne **frontend frameworks**
-* 👥 Ervaring met **Scrum-methodologie**
-
----
-## ⚡️ Quick Facts
-
-* 🛠️ **Werk aan:** Frontend projecten met Vue.js
-* 📚 **Leer:** Gevorderde Vue.js, Tailwind CSS, state management
-* 💬 **Vraag me over:** Vue.js, Tailwind CSS en Axios
-* 🤝 **Open voor:** Samenwerking aan frontend projecten
+🎓 **Eerstejaars Informatica student**
+🚀 **Leergierig & gedreven**
+🎯 **Focus op:** Vue.js, Tailwind CSS en Axios
+🐍 **Momenteel bezig met het leren van Python**
+✨ Werkt met moderne **frontend frameworks**
+👥 Ervaring met **Scrum-methodologie**
 
 ---
 <div align="center">
